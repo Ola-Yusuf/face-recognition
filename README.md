@@ -11,7 +11,7 @@
 2. Extract the downloaded file into the _htdoc_ directory of XAMPP or WAMP folder
 3. Start the Apache Server for the XAMPP or WAMP Control Panel
 
-4. Open your browser (chrome) and navigate to [http://localhost/face-recognition](http://localhost/face-recognition)
+4. Open your browser (chrome) and navigate to [http://localhost/face-recognition-master](http://localhost/face-recognition-master)
 
 5. Installation Completed.
 
