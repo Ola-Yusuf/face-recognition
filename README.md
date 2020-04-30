@@ -7,11 +7,11 @@
 
 ### Installation Process
 
-1. Download this software by clicking
+1. Download this software by clicking [https://github.com/Ola-Yusuf/face-recognition/archive/master.zip](https://github.com/Ola-Yusuf/face-recognition/archive/master.zip)
 2. Extract the downloaded file into the _htdoc_ directory of XAMPP or WAMP folder
 3. Start the Apache Server for the XAMPP or WAMP Control Panel
 
-4. Open your browser (chrome) and navigate to [http://localhost/project](http://localhost/project)
+4. Open your browser (chrome) and navigate to [http://localhost/face-recognition](http://localhost/face-recognition)
 
 5. Installation Completed.
 
